@@ -17,7 +17,7 @@ $ vagrant up		// 시간이 오래 걸립니다
 $ vagrant ssh
 Welcome to Ubuntu 14.04.2 LTS (GNU/Linux 3.13.0-46-generic x86_64)
 ...
-vagrant@rails-dev-box:~$
+vagrant@weirdmeetup:~$
 ```
 Host 컴퓨터의 3000번 포트는 Virtual machine 의 3000번 포트로 포워딩 됩니다. 따라서, VM에서 동작하는 어플리케이션은 host컴퓨터에서 localhost:3000으로 접근 가능합니다.  
 
