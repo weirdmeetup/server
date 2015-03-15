@@ -2,7 +2,7 @@
 ## Introduction
 
 ## Requirements
-* [Virtualbox ](https://www.virtualbox.org/)
+* [Virtualbox](https://www.virtualbox.org/)
 * [Vagrant 1.7.2](https://www.vagrantup.com/)
 
 ## How To Build The Virtual Machine
